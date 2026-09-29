@@ -20,7 +20,7 @@ h2 {
 .card {
     background-color: rgb(252, 160, 160);
     border: 2px solid #7a0019;
-    border-radius: 10px;
+    border-radius: 30px;
     padding: 20px;
     margin: 15px;
     box-shadow: 0 3px 8px #ccc;
@@ -30,7 +30,7 @@ h2 {
 .track-card {
     background-color: #7791f9;
     border: 2px solid #0713f2;
-    border-radius: 10px;
+    border-radius: 30px;
     padding: 20px;
     margin: 15px;
 }
@@ -38,7 +38,7 @@ h2 {
 .runner-card {
     background-color: #91e3b6;
     border: 2px solid #15f309;
-    border-radius: 10px;
+    border-radius: 30px;
     padding: 20px;
     margin: 15px;
 }
